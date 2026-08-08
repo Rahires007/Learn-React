@@ -1,0 +1,6 @@
+
+button:hover{
+    color: black;
+    background-color: aqua;
+    transition: 0.3ms;
+}
