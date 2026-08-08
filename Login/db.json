@@ -1,0 +1,29 @@
+{
+  "Users": [
+    {
+      "name": "Raj",
+      "email": "raj",
+      "mob": 11111,
+      "password": "raj123",
+      "role": "Admin",
+      "id": "q7yM1lw0R_M"
+    },
+    {
+      "name": "Ram",
+      "email": "ram",
+      "mob": 22222,
+      "password": "ram123",
+      "role": "User",
+      "id": "BUeb962cZlQ"
+    },
+    {
+      "name": "Tina",
+      "email": "tina",
+      "password": "tina123",
+      "mob": "33333",
+      "role": "User",
+      "id": "TqXTOWVOqhU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
