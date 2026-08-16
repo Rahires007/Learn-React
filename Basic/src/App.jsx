@@ -1,3 +1,5 @@
+//UseState -UseState is hook mainly used for manage the state 
+//UseEffect - UseEffect is hook mainly used for execute specific code of block on the basis of array
 import React, { useEffect, useState } from 'react'
 import './App.css'
 
