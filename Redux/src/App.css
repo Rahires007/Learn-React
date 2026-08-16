@@ -1,0 +1,7 @@
+button:hover{
+    background-color: lightskyblue;
+    transition: 0.3ms;
+    transform: 0.3ms;
+    padding: 5px;
+    border: 10px;
+}
